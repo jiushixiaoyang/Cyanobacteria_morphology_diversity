@@ -1,0 +1,28 @@
+core_analyses:
+  BUSCO: "v5.4.4"
+  OrthoFinder: "v2.5.5"
+  CD-HIT: "v4.8.1"
+  RNAmmer: "v1.2"
+  MAFFT: "v7.429"
+  trimAl: "v1.2"
+  IQ-TREE: "v2.2.2.7"
+  PhyloBayes: "v4.1"
+  Count: "v9.1106 RC1"
+  sMap: "v1.0.7"
+  Mesquite: "v4.01"
+
+supporting_tools:
+  TreeViewer: "v2.2"
+  ModelFinder: "IQ-TREE (built-in; used via -m MF+MERGE)"
+  DIAMOND: "used via OrthoFinder (version not specified)"
+  FastTree: "used via OrthoFinder (version not specified)"
+
+online_annotation:
+  eggNOG-mapper: "v2.0.1"
+
+reference_databases:
+  BUSCO_lineage_dataset: "cyanobacteria_odb10"
+  NCBI_sources:
+    - "GenBank"
+    - "RefSeq"
+

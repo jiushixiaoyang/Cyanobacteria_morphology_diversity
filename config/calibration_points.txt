@@ -1,0 +1,9 @@
+8
+Pseudanabaena.sp.PCC.6802                               Calothrix.sp.PCC.7507                                      -1    1900
+Nodularia.spumigena.CCY9414                             Calothrix.sp.PCC.6303                                      1888  1600
+Pleurocapsa.sp.PCC.7319                                 Pleurocapsa.sp.PCC.7327                                    1888  1700
+Richelia.intracellularis.HH01                           Richelia.intracellularis.HM01                              -1    110
+Aphanocapsa.feldmannii.277cV                            Synechococcus.spongiarum.142                               713   -1
+Candidatus.Atelocyanobacterium.thalassa.isolate.ALOHA   Candidatus.Atelocyanobacterium.thalassa.isolate.SIO64986   -1    91
+Anthocerotibacter.panamensis.C109                       Crocosphaera.subtropica.ATCC.51142                         3000  2320 
+Chloroflexus.aurantiacus.J.10.fl			Crocosphaera.subtropica.ATCC.51142                         4520  -1
