@@ -6,7 +6,7 @@ Scripts and datasets for the analysis on genome evolution of Cyanobacteria morph
 This repository provides scripts and metadata used in the phylogenomic,
 molecular dating, and comparative genomic analyses described in:
 
-[Paper title]
+The Genomic Origins of Cyanobacterial Morphological Diversity
 
 ## Data
 Genome and protein sequences were downloaded from NCBI GenBank and RefSeq.
